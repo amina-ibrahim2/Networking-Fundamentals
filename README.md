@@ -2,7 +2,12 @@
 This repository provides an overview of the fundamentals of computer networking. After completing Adrian Cantrill's Networking Fundamentals course, I created a brief summary of each layer of the OSI Model, along with questions to reinforce key concepts. 
 
 ## Layer 1 Physical 
-The Physical Layer is the first layer of the OSI model, and it’s all about how data is physically transmitted and received over a network. This layer sets the hardware standards like voltage levels, timing, data rates, distances, and connectors
+The Physical Layer is the first layer of the OSI model, and it’s all about how data is physically transmitted and received over a network. This layer sets the hardware standards like voltage levels, timing, data rates, distances, and connectors.
+
+<img width="751" alt="Screenshot 2024-07-20 at 11 29 00 PM" src="https://github.com/user-attachments/assets/27e0545b-8f6a-47b6-87cf-3d4db78f2443">
+
+
+
 
 **What is Layer 1 in networking?**
 
