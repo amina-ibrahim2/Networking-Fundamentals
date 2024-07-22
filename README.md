@@ -9,6 +9,7 @@ The Physical Layer is the first layer of the OSI model, and it’s all about how
 
 
 
+
 **What is Layer 1 in networking?**
 
 Layer 1 is the Physical Layer in networking, which involves transmitting and receiving raw bit streams between a device and a shared physical medium.
